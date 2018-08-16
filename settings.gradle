@@ -1,0 +1,1 @@
+include ':app', ':net-module', ':loader-module', ':core-module'
